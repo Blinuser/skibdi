@@ -1,0 +1,89 @@
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2MmRmNDJmN2E5ZGU5N2U5MjNlOGVmZSIsImVtYWlsIjoibHN0eW5pZ2h0MUBnbWFpbC5jb20iLCJpYXQiOjE3MjIyMTQyMTh9.xOq_ufSSZIBPLFqyqDa9PdB-kxdmWV1c80IOIbPhFNE",
+  "web_hook_url": "https://discord.com/api/webhooks/1263090754268430407/V4ljbHddIZ7q_zgVeo0z-GhVcKSN4R_kMvG74YDaZ78aLN1t-fw6FzlM4XYFGKORv156",
+
+
+  "items": {
+
+
+    "item1": {
+      "item_name": "Harvester",
+      "item_rate": "5"
+    },
+
+
+    "item2": {
+      "item_name": "Watergun",
+      "item_rate": "5"
+    },
+
+
+    "item3": {
+      "item_name": "Gingerscope",
+      "item_rate": "5"
+    },
+
+    "item4": {
+      "item_name": "Corrupt",
+      "item_rate": "5"
+    },
+
+
+    "item5": {
+      "item_name": "Icepiercer",
+      "item_rate": "5"
+    },
+
+
+    "item6": {
+      "item_name": "Traveler's Gun",
+      "item_rate": "5"
+    },
+
+    "item7": {
+      "item_name": "Traveler's Axe",
+      "item_rate": "5"
+    },
+
+    "item8": {
+      "item_name": "Chroma Evergreen",
+      "item_rate": "5"
+    },
+
+    "item9": {
+      "item_name": "Chroma Traveler's Gun",
+      "item_rate": "5"
+    },
+
+    "item10": {
+      "item_name": "Evergun",
+      "item_rate": "5"
+    },
+
+    "item11": {
+      "item_name": "Evergreen",
+      "item_rate": "5"
+    },
+	
+	"item11": {
+      "item_name": "Ocean",
+      "item_rate": "5"
+    },
+	
+	"item11": {
+      "item_name": "Bat",
+      "item_rate": "5"
+    },
+	
+	"item11": {
+      "item_name": "Rainbow",
+      "item_rate": "5"
+    },
+	
+	"item11": {
+      "item_name": "Pearl",
+      "item_rate": "5"
+    }
+
+  }
+}
